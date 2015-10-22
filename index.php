@@ -1,5 +1,5 @@
 <?php
 
-	echo "Apenas mais um teste de deployment";
+	echo "Apenas mais um teste";
 
 ?>
